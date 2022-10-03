@@ -163,6 +163,10 @@ hr.black {
 /* 	Vertically center the images on the "Fun Stuff" section
 		https://stackoverflow.com/a/37163431
 */
+.images-a{
+  max-width: 100%;
+    height: auto;
+}
 .images-vcenter {
 	display: flex;
 	align-items: center;
